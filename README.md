@@ -3,7 +3,7 @@
 
 <!-- 🌊 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:14B8A6&text=Divya%20Pushkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2563EB,50:06B6D4,100:14B8A6&text=DIVYA%20PUSHKAR&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=22&animation=twinkling"/>
 </p>
 <!-- ⌨️ Typing Animation -->
 <p align="center">
