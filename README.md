@@ -3,9 +3,8 @@
 
 <!-- 🌊 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:14B8A6&text=Divya%20Pushkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
 </p>
-
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;React+Developer;FastAPI+Developer;Always+Learning+%26+Building"/>
