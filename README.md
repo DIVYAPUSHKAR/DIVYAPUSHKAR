@@ -3,7 +3,7 @@
 
 <!-- 🌊 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Divya%20Pushkar&fontAlign=50&fontAlignY=40&color=0:4F46E5,100:06B6D4&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 <!-- ⌨️ Typing Animation -->
