@@ -31,14 +31,9 @@
   </a>
 </p>
 
----
 
-<!-- 🏆 GitHub Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIVYAPUSHKAR&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1" alt="DIVYAPUSHKAR Trophies" />
-</p>
 
----
+
 
 ## 🧠 About Me
 
