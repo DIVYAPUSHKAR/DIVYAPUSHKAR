@@ -3,9 +3,9 @@
 <!-- Theme: Modern Dark | Cyan-Blue Gradient | Animated | Professional   -->
 <!-- ==================================================================== -->
 
-<!-- 💻 Software Developer Premium Waving Banner -->
+<!-- 🌟 Ultra-Premium Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Divya%20Pushkar&fontAlign=50&fontAlignY=38&color=0:0d1117,50:0284c7,100:00e5ff&fontColor=ffffff&stroke=00e5ff&strokeWidth=1&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI/ML%20Engineer&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Divya Pushkar Software Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,35:0284C7,70:00E5FF,100:2563EB&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
 </p>
 
 <!-- ⌨️ Cyan Neon Typing Animation -->
@@ -299,11 +299,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAPUSHKAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAPUSHKAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYAPUSHKAR&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="175" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Top Languages" />
 </p>
 
 ---
