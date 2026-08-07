@@ -24,7 +24,7 @@
 
 ✨ Passionate about building intelligent web applications using AI, Machine Learning and Modern Web Technologies.
 
-🚀 Interested in Full Stack Development, NLP, Data Science, Backend Development and Artificial Intelligence.
+🚀 Interested in Full Stack Development, NLP, Data Science, Backend Development and Machine Learning.
 
 </div>
 
@@ -156,31 +156,6 @@ Published in **ISJEM Journal**
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DIVYAPUSHKAR&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIVYAPUSHKAR/DIVYAPUSHKAR/output/github-contribution-grid-snake-dark.svg"/>
-
-<img src="https://raw.githubusercontent.com/DIVYAPUSHKAR/DIVYAPUSHKAR/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -200,11 +175,7 @@ Published in **ISJEM Journal**
 
 </p>
 
-<p align="center">
 
-📧 **pushkardivyaa@gmail.com**
-
-</p>
 
 <p align="center">
 
