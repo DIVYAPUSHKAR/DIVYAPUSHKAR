@@ -3,9 +3,9 @@
 <!-- Theme: Modern Dark | Cyan-Blue Gradient | Animated | Professional   -->
 <!-- ==================================================================== -->
 
-<!-- 🌊 Header Animated Waving Banner -->
+<!-- 🌟 Ultra-Premium Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,40:0284C7,100:00E5FF&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,35:0284C7,70:00E5FF,100:2563EB&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
 </p>
 
 <!-- ⌨️ Cyan Neon Typing Animation -->
@@ -29,13 +29,6 @@
   <a href="https://github.com/DIVYAPUSHKAR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-<!-- 🏆 GitHub Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIVYAPUSHKAR&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1" alt="DIVYAPUSHKAR Trophies" />
 </p>
 
 ---
@@ -315,12 +308,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Top Languages" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYAPUSHKAR&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
