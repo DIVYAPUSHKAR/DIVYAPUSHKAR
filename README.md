@@ -31,9 +31,14 @@
   </a>
 </p>
 
+---
 
+<!-- 🏆 GitHub Profile Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DIVYAPUSHKAR&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1" alt="DIVYAPUSHKAR Trophies" />
+</p>
 
-
+---
 
 ## 🧠 About Me
 
@@ -316,16 +321,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYAPUSHKAR&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-### 🐍 Contribution Graph Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIVYAPUSHKAR/DIVYAPUSHKAR/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIVYAPUSHKAR/DIVYAPUSHKAR/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/DIVYAPUSHKAR/DIVYAPUSHKAR/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
 </p>
 
 ---
