@@ -1,11 +1,8 @@
-<!-- ==================================================================== -->
-<!-- 🚀 DIVYA PUSHKAR - PREMIUM RECRUITER-FRIENDLY GITHUB PROFILE README   -->
-<!-- Theme: Modern Dark | Cyan-Blue Gradient | Animated | Professional   -->
-<!-- ==================================================================== -->
+
 
 <!-- 🌟 Ultra-Premium Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,35:0284C7,70:00E5FF,100:2563EB&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,35:0284C7,70:00E5FF,100:2563EB&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=Full%20Stack%20%26%20ML%20Engineer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
 </p>
 
 <!-- ⌨️ Cyan Neon Typing Animation -->
