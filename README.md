@@ -303,10 +303,11 @@
 
 ---
 
-## 📈 GitHub Contribution & Activity Chart
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYAPUSHKAR&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Divya Pushkar Contribution Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAPUSHKAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Top Languages" />
 </p>
 
 ---
