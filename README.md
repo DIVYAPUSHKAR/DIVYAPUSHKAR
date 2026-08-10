@@ -1,7 +1,4 @@
-<!-- ==================================================================== -->
-<!-- 🚀 DIVYA PUSHKAR - PREMIUM RECRUITER-FRIENDLY GITHUB PROFILE README   -->
-<!-- Theme: Modern Dark | Cyan-Blue Gradient | Animated | Professional   -->
-<!-- ==================================================================== -->
+
 
 <!-- 🌟 Ultra-Premium Header Banner -->
 <p align="center">
@@ -32,7 +29,7 @@
   <tr>
     <td style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 12px; padding: 20px; color: #c9d1d9;">
       <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering from <b>RGUKT Basar</b> (CGPA <b>8.4</b>).</li>
+        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering from <b>RGUKT Basar</b> </li>
         <li>🤖 <b>Passionate about AI & Data:</b> Deep interest in Artificial Intelligence, Machine Learning, Data Analytics, and NLP architectures.</li>
         <li>💻 <b>Full Stack Developer:</b> Skilled in building end-to-end scalable web applications using React, Node.js, Express, and Databases.</li>
         <li>⚡ <b>Problem Solver:</b> Driven by data structures, algorithmic thinking, and clean software craftsmanship.</li>
@@ -295,7 +292,6 @@
     <td style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 18px;">
       <h3 align="left">🏛️ Rajiv Gandhi University of Knowledge Technologies (RGUKT), Basar</h3>
       <p><b>Degree:</b> Bachelor of Technology (B.Tech) in Computer Science & Engineering</p>
-      <p><b>Academic Performance:</b> Cumulative Grade Point Average (CGPA): <b style="color: #00e5ff;">8.4 / 10.0</b></p>
       <p><b>Relevant Coursework:</b> Data Structures & Algorithms, Machine Learning, Database Management Systems, Software Engineering, Object-Oriented Programming, Web Technologies.</p>
     </td>
   </tr>
@@ -306,11 +302,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAPUSHKAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAPUSHKAR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYAPUSHKAR&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="175" alt="Streak Stats" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAPUSHKAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="175" alt="Top Languages" />
+</p>
 
 ## 🌐 Connect With Me
 
