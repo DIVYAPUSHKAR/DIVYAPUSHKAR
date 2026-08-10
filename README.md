@@ -29,7 +29,7 @@
   <tr>
     <td style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 12px; padding: 20px; color: #c9d1d9;">
       <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering from <b>RGUKT Basar</b> (CGPA <b>8.4</b>).</li>
+        <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering from <b>RGUKT Basar</b> </li>
         <li>🤖 <b>Passionate about AI & Data:</b> Deep interest in Artificial Intelligence, Machine Learning, Data Analytics, and NLP architectures.</li>
         <li>💻 <b>Full Stack Developer:</b> Skilled in building end-to-end scalable web applications using React, Node.js, Express, and Databases.</li>
         <li>⚡ <b>Problem Solver:</b> Driven by data structures, algorithmic thinking, and clean software craftsmanship.</li>
@@ -62,11 +62,11 @@
   <img src="https://img.shields.io/badge/NLP-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="NLP" />
   <img src="https://img.shields.io/badge/LLM-FLAN--T5-00E5FF?style=for-the-badge&logo=google&logoColor=white" alt="FLAN-T5" />
   <br/><br/>
-  <strong>☁️ Cloud Infrastructure</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Cloud" /></a>
+  <strong>☁️ Cloud Infrastructure & DevOps</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" alt="Cloud" /></a>
   <br/><br/>
   <strong>🛠️ Developer Tools</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" alt="Tools" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" /></a>
 </p>
 
 ---
@@ -91,7 +91,7 @@
   <tr>
     <td style="background-color: #0d1117; border: 1px solid #00e5ff; border-radius: 10px; padding: 16px;">
       <h3 align="left">🌐 Proxenix — Web Development Intern</h3>
-      <p><b>Project:</b> Home Rental Web Application | <a href="https://github.com/DIVYAPUSHKAR"><b>📁 Repository</b></a></p>
+      <p><b>Project:</b> Home Rental Web Application | <a href="https://github.com/DIVYAPUSHKAR/home-rental-mern-"><b>📁 View Repository</b></a></p>
       <ul>
         <li>Architected a full-stack Home Rental Web Application with dedicated Admin and User roles.</li>
         <li>Implemented Admin Verification & Property Approval System for secure rental listings.</li>
@@ -109,7 +109,7 @@
   <tr>
     <td style="background-color: #0d1117; border: 1px solid #0284c7; border-radius: 10px; padding: 16px;">
       <h3 align="left">📊 YBI Foundation — Machine Learning & Data Science Intern</h3>
-      <p><b>Project:</b> Customer Churn Prediction | <a href="https://github.com/DIVYAPUSHKAR/churn-ml"><b>📁 Repository</b></a></p>
+      <p><b>Project:</b> Customer Churn Prediction | <a href="https://github.com/DIVYAPUSHKAR/churn-ml"><b>📁 View Repository</b></a></p>
       <ul>
         <li>Analyzed and processed the IBM Telco Customer Churn dataset for predictive modeling.</li>
         <li>Performed data cleaning, missing value imputation, categorical encoding, and feature scaling.</li>
@@ -134,15 +134,15 @@
   <tr>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
       <h3 align="center">🏠 Home Rental Web Application</h3>
-      <p align="center">Full stack platform featuring dual Admin and User interfaces, property approval system, booking engine, and MongoDB integration.</p>
+      <p align="center">Full stack MERN platform featuring dual Admin and User interfaces, property approval system, booking engine, and MongoDB integration.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/home-rental-mern-" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
@@ -152,10 +152,10 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/healthprediction" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -169,8 +169,7 @@
         <img src="https://img.shields.io/badge/FLAN--T5-00E5FF?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR/toxix-to-positive-rewiter-nlp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://isjem.com/download/toxic-to-positive-comment-rewriting-using-supervised-fine-tuning-and-direct-preference-optimization/"><img src="https://img.shields.io/badge/Paper-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/toxix-to-positive-rewiter-nlp-" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
@@ -182,8 +181,7 @@
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR/churn-ml"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR/churn-ml"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/churn-ml" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -197,8 +195,7 @@
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/ML-HOUSE" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
@@ -210,8 +207,7 @@
         <img src="https://img.shields.io/badge/TF--IDF-00E5FF?style=flat-square&logo=scikit-learn&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/fake-new-ml-" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -225,21 +221,35 @@
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/face-mask-detector" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
-      <h3 align="center">🌐 Portfolio Website</h3>
-      <p align="center">Modern responsive personal portfolio website showcasing projects, skillsets, resume, and contact integrations.</p>
+      <h3 align="center">📝 Todo App (MERN Stack)</h3>
+      <p align="center">Feature-rich task management web application built with the MERN stack with CRUD capabilities and real-time state management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/DIVYAPUSHKAR"><img src="https://img.shields.io/badge/Live%20Demo-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <a href="https://github.com/DIVYAPUSHKAR/todo-app-with-mern-stack-" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 15px;">
+      <h3 align="center">🍕 DevOps Zomato Web Application</h3>
+      <p align="center">End-to-end DevOps deployment pipeline for a full stack food delivery web application using modern CI/CD practices and containerization.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/DIVYAPUSHKAR/-devops-zomatowebapplication" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -252,7 +262,7 @@
 <table align="center" width="100%">
   <tr>
     <td style="background-color: #0d1117; border: 2px solid #00e5ff; border-radius: 12px; padding: 20px;">
-      <h3 align="center">📄 Toxic to Positive Comment Rewriting using Supervised Fine-Tuning and Direct Preference Optimization</h3>
+      <h3 align="center">📄 <a href="https://isjem.com/download/toxic-to-positive-comment-rewriting-using-supervised-fine-tuning-and-direct-preference-optimization/" target="_blank" style="color: #00E5FF; text-decoration: none;">Toxic to Positive Comment Rewriting using Supervised Fine-Tuning and Direct Preference Optimization - ISJEM Journal</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Journal-ISJEM-00E5FF?style=for-the-badge" alt="Journal ISJEM" />
         <img src="https://img.shields.io/badge/Domain-NLP%20%26%20LLM-7C3AED?style=for-the-badge" alt="NLP LLM" />
@@ -265,7 +275,7 @@
         <a href="https://isjem.com/download/toxic-to-positive-comment-rewriting-using-supervised-fine-tuning-and-direct-preference-optimization/" target="_blank">
           <img src="https://img.shields.io/badge/Download%20Paper%20PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF" />
         </a>
-        <a href="https://github.com/DIVYAPUSHKAR/toxix-to-positive-rewiter-nlp" target="_blank">
+        <a href="https://github.com/DIVYAPUSHKAR/toxix-to-positive-rewiter-nlp-" target="_blank">
           <img src="https://img.shields.io/badge/View%20Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
       </p>
@@ -282,7 +292,6 @@
     <td style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 10px; padding: 18px;">
       <h3 align="left">🏛️ Rajiv Gandhi University of Knowledge Technologies (RGUKT), Basar</h3>
       <p><b>Degree:</b> Bachelor of Technology (B.Tech) in Computer Science & Engineering</p>
-      <p><b>Academic Performance:</b> Cumulative Grade Point Average (CGPA): <b style="color: #00e5ff;">8.4 / 10.0</b></p>
       <p><b>Relevant Coursework:</b> Data Structures & Algorithms, Machine Learning, Database Management Systems, Software Engineering, Object-Oriented Programming, Web Technologies.</p>
     </td>
   </tr>
