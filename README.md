@@ -2,7 +2,7 @@
 
 <!-- 🌟 Ultra-Premium Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=36&color=0:0D1117,35:0284C7,70:00E5FF,100:2563EB&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&desc=Full%20Stack%20%26%20ML%20Engineer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=58&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=38&color=0:0d1117,50:0284c7,100:00e5ff&fontColor=ffffff&stroke=00e5ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
 </p>
 
 <!-- ⌨️ Cyan Neon Typing Animation -->
