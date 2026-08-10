@@ -1,15 +1,8 @@
 
 
-<!-- 🌟 Ultra-Premium Animated Header Banner -->
+<!-- 🌟 Ultra-Premium Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DIVYA%20PUSHKAR&fontAlign=50&fontAlignY=38&color=0:0d1117,50:0284c7,100:00e5ff&fontColor=ffffff&stroke=00e5ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Divya Pushkar Banner" />
-</p>
-
-<!-- ⌨️ Cyan Neon Typing Animation -->
-<p align="center">
-  <a href="https://github.com/DIVYAPUSHKAR">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Python+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG Animation" />
-  </a>
 </p>
 
 <!-- 🏅 Profile Stats Pill Strip & Social Links -->
@@ -37,10 +30,10 @@
     <td style="background-color: #0d1117; border: 1px solid #1f6feb; border-radius: 12px; padding: 20px; color: #c9d1d9;">
       <ul>
         <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering from <b>RGUKT Basar</b> (CGPA <b>8.4</b>).</li>
-        <li>🤖 <b>Passionate about AI:</b> Deep interest in Artificial Intelligence, Machine Learning, and NLP architectures.</li>
+        <li>🤖 <b>Passionate about AI & Data:</b> Deep interest in Artificial Intelligence, Machine Learning, Data Analytics, and NLP architectures.</li>
         <li>💻 <b>Full Stack Developer:</b> Skilled in building end-to-end scalable web applications using React, Node.js, Express, and Databases.</li>
         <li>⚡ <b>Problem Solver:</b> Driven by data structures, algorithmic thinking, and clean software craftsmanship.</li>
-        <li>🎯 <b>Core Focus Areas:</b> AI/ML • NLP • Backend Systems • Data Science • Cloud Computing (AWS)</li>
+        <li>🎯 <b>Core Focus Areas:</b> Full Stack Development • Machine Learning • Data Analytics • NLP • Cloud Computing (AWS)</li>
       </ul>
     </td>
   </tr>
@@ -61,7 +54,8 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" /></a>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <br/><br/>
-  <strong>🤖 Machine Learning & Data Science</strong><br/>
+  <strong>🤖 Machine Learning & Data Analytics</strong><br/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
